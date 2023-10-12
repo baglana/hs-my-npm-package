@@ -1,0 +1,17 @@
+{
+  "name": "my-npm-package",
+  "version": "1.0.0",
+  "description": "This is my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "first-project",
+    "start",
+    "javascript",
+    "node"
+  ],
+  "author": "Me",
+  "license": "ISC"
+}
