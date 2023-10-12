@@ -13,5 +13,11 @@
     "node"
   ],
   "author": "Me",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.0.0"
+  }
 }
